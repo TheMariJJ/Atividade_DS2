@@ -1,0 +1,13 @@
+C:\Users\Aluno\Desktop\Recuperação_17.04\Recuperação_17.04\bin\Debug\Recuperação_17.04.exe
+C:\Users\Aluno\Desktop\Recuperação_17.04\Recuperação_17.04\bin\Debug\Recuperação_17.04.pdb
+C:\Users\Aluno\Desktop\Recuperação_17.04\Recuperação_17.04\obj\x86\Debug\Recuperação_17._04.Menu.resources
+C:\Users\Aluno\Desktop\Recuperação_17.04\Recuperação_17.04\obj\x86\Debug\Recuperação_17._04.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Recuperação_17.04\Recuperação_17.04\obj\x86\Debug\Recuperação_17.04.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Recuperação_17.04\Recuperação_17.04\obj\x86\Debug\Recuperação_17.04.exe
+C:\Users\Aluno\Desktop\Recuperação_17.04\Recuperação_17.04\obj\x86\Debug\Recuperação_17.04.pdb
+C:\Users\Aluno\Desktop\Recuperação_17.04\Recuperação_17.04\obj\x86\Debug\Recuperação_17._04.frmCadCliente.resources
+C:\Users\Aluno\Desktop\Recuperação_17.04\Recuperação_17.04\obj\x86\Debug\Recuperação_17._04.frmCadFunc.resources
+C:\Users\Aluno\Desktop\Recuperação_17.04\Recuperação_17.04\obj\x86\Debug\Recuperação_17._04.frmCadVeiculo.resources
+C:\Users\Aluno\Desktop\Recuperação_17.04\Recuperação_17.04\obj\x86\Debug\Recuperação_17._04.frmConsCliente.resources
+C:\Users\Aluno\Desktop\Recuperação_17.04\Recuperação_17.04\obj\x86\Debug\Recuperação_17._04.frmConsFunc.resources
+C:\Users\Aluno\Desktop\Recuperação_17.04\Recuperação_17.04\obj\x86\Debug\Recuperação_17._04.frmConsVeiculo.resources
